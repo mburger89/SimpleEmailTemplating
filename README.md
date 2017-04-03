@@ -15,9 +15,17 @@ After you run those you should be ready to go. **Please Note:** you must have **
 ## How to compile to HTML
 
 To compile your email to html run. 
+
+
 ``` $ gulp build ```
+
+
 To run an http server to view your email before you send run. 
+
+
 ``` $ gulp serve ```
+
+
 *note: the file being served is the built html file, to see changes the files must be compiled everytime.*
 
 More functionality will be added as I continue to work on this to make it better.
