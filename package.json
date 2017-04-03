@@ -1,0 +1,28 @@
+{
+  "name": "nspemail",
+  "version": "1.0.0",
+  "description": "working of developing and email workflow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxburgerNSP/nspemail.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxburgerNSP/nspemail/issues"
+  },
+  "homepage": "https://github.com/maxburgerNSP/nspemail#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-serve": "^1.4.0",
+    "handlebars": "^4.0.6"
+  },
+  "devDependencies": {
+    "gulp-nunjucks-render": "^2.0.0"
+  }
+}

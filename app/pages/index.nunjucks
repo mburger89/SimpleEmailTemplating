@@ -1,0 +1,11 @@
+{% extends "layout.nunjucks" %}
+
+{% block content %}
+
+{% include "partials/header.nunjucks"%}
+<div class="container`">
+
+</div>
+{% include "partials/footer.html" %}
+
+{% endblock %}
