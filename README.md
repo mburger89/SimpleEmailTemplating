@@ -10,13 +10,13 @@ git clone https://github.com/maxburgerNSP/SimpleEmailTemplating.git
 cd SimpleEmailTemplating/
 npm install
 ```
-After you run those you should be ready to go. **Please Note:** you must have node and npm installed for this to work. 
+After you run those you should be ready to go. **Please Note:** you must have **node** and **npm** installed for this to work. 
 
-##How to compile to HTML
+## How to compile to HTML
 
-To compile your email to html run 
+To compile your email to html run. 
 ``` $ gulp build ```
-To run an http server to view your email before you send run 
+To run an http server to view your email before you send run. 
 ``` $ gulp serve ```
 *note: the file being served is the built html file, to see changes the files must be compiled everytime.*
 
@@ -24,4 +24,5 @@ More functionality will be added as I continue to work on this to make it better
 features I am working on:
 * Being able to auto-build on save. 
 * also incorperating juice for inlining styles. 
+
 As for right now there is not functionality for that. 
