@@ -1,6 +1,6 @@
 # SimpleEmailTemplating
 
-This is a framework for making html emails quickly and more easily. It does this by speterating the header, footer and main content of the email into partials that can be compiled to one cohesive html email. Its does this by utilizing **gulp** to run builds and **nunjucks** for templating. This framework is already setup to use some of mailchimps hooks like there view in browser function but they can be easily taken out and replaced with your ESP's hooks or take them out entirely. 
+This is a framework for making html emails quickly and more easily. It does this by seperating the header, footer and main content of the email into partials that can be compiled to one cohesive html email. Its does this by utilizing **gulp** to run builds and **nunjucks** for templating. This framework is already setup to use some of mailchimps hooks like there view in browser function but they can be easily taken out and replaced with your ESP's hooks or take them out entirely. 
 
 ## How to setup
 You can setup this repo to use for your own emails by cloning it to you machine. Once cloned where you want it run the typical commands you would to install node/npm based work flow. 
