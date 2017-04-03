@@ -28,7 +28,10 @@ To run an http server to view your email before you send run.
 
 *note: the file being served is the built html file, to see changes the files must be compiled everytime.*
 
+# Future Plans
 More functionality will be added as I continue to work on this to make it better.
+
+
 features I am working on:
 * Being able to auto-build on save. 
 * also incorperating juice for inlining styles. 
