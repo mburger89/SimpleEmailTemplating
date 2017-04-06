@@ -15,3 +15,5 @@ gulp.task('build', function() {
   .pipe(gulp.dest('app'))
 });
 
+gulp.task('buildServe', ['build'], serve('app')); 
+
