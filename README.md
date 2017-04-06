@@ -25,8 +25,13 @@ To run an http server to view your email before you send, run.
 
 ``` $ gulp serve ```
 
+*note: the file being served is the built html file.*
 
-*note: the file being served is the built html file, to see changes the files must be compiled everytime.*
+To build and run the http server, run.
+
+```$ gulp buildServe ```
+
+*This both build your email and servers it on an http server. To see changes made you must kill the server and run the command again.*
 
 # Future Plans
 More functionality will be added as I continue to work on this to make it better.
