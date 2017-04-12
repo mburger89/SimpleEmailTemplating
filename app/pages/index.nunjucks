@@ -2,9 +2,10 @@
 
 {% block content %}
 
-{% include "partials/header.nunjucks"%}
+{% include "partials/header.html"%}
 <div class="container`">
-
+<h2>if this is displaying it worked! </h2>
+<p>try editing this text to test it out</p>
 </div>
 {% include "partials/footer.html" %}
 

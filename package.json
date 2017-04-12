@@ -23,6 +23,7 @@
     "handlebars": "^4.0.6"
   },
   "devDependencies": {
+    "browser-sync": "^2.18.8",
     "gulp-nunjucks-render": "^2.0.0"
   }
 }
