@@ -25,20 +25,20 @@ To run an http server to view your email before you send, run.
 
 ``` $ gulp serve ```
 
-*note: the file being served is the built html file.*
+*note: the file being served is the built html file in **app/***
 
 To build and run the http server, run.
 
-```$ gulp buildServe ```
+```$ gulp watch ```
 
-*This both build your email and servers it on an http server. To see changes made you must kill the server and run the command again.*
+*This both builds your email and servers it on a server while watching for any changes, reloading on save of changed files*
 
 # Future Plans
 More functionality will be added as I continue to work on this to make it better.
 
 
 features I am working on:
-* Being able to auto-build on save. 
+* ~~Being able to auto-build on save.~~
 * also incorperating juice for inlining styles. 
 
 As for right now there is not functionality for that. 
