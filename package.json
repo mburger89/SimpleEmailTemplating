@@ -1,5 +1,5 @@
 {
-  "name": "nspemail",
+  "name": "This is a framework with partials to make writing email easier",
   "version": "1.0.0",
   "description": "working of developing and email workflow",
   "main": "index.js",
