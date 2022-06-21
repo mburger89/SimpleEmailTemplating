@@ -6,7 +6,7 @@ This is a framework for making html emails quickly and more easily. It does this
 You can setup this repo to use for your own emails by forking it then cloning it to you machine. Once cloned ,where you want it, run the typical commands you would to install node/npm based work flow. 
 
 ```
-git clone https://github.com/maxburgerNSP/SimpleEmailTemplating.git
+git clone https://github.com/maxburger89/SimpleEmailTemplating.git
 cd SimpleEmailTemplating/
 npm install
 ```
